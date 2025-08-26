@@ -1,4 +1,4 @@
----
+Welcome To ACLA Symposium---
 meta_description: "Generate qr code charts as image using Image-charts API. From simple or custom qr charts to output format or background color, we handle everything!"
 ---
 # QR Codes
